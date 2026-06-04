@@ -530,6 +530,12 @@ MonoBehaviour:
   enemyHP: 100
   grit: 3
   turn: 1
+  allCards:
+  - {fileID: 11400000, guid: 40332449140b9b64db55b85010acc0b6, type: 2}
+  - {fileID: 11400000, guid: 2780d7781da56704aaef448748f57835, type: 2}
+  - {fileID: 11400000, guid: 9223e5672ba65df4182d6bffd42f3ddf, type: 2}
+  - {fileID: 11400000, guid: 9e04e69746f3a9642baad2c61a7adb8c, type: 2}
+  - {fileID: 11400000, guid: 4425b402bf15e9d47861d70d38705dc6, type: 2}
   hand: []
 --- !u!1 &972013392
 GameObject:
