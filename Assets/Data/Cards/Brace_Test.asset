@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Brace_Test
   m_EditorClassIdentifier: Assembly-CSharp::Card
   data:
-    cardName: 
-    gritCost: 0
-    cardType: 
-    description: 
-    effectValue: 0
+    cardName: Brace
+    gritCost: 1
+    cardType: Brace
+    description: Increase Defense
+    effectValue: 3

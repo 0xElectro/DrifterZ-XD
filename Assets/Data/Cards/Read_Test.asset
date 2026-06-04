@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Read_Test
   m_EditorClassIdentifier: Assembly-CSharp::Card
   data:
-    cardName: 
+    cardName: Read
     gritCost: 0
-    cardType: 
-    description: 
-    effectValue: 0
+    cardType: Utility
+    description: Peek Ahead
+    effectValue: 2

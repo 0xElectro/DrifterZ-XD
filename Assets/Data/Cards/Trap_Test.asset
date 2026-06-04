@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Trap_Test
   m_EditorClassIdentifier: Assembly-CSharp::Card
   data:
-    cardName: 
-    gritCost: 0
-    cardType: 
-    description: 
-    effectValue: 0
+    cardName: Trap
+    gritCost: 3
+    cardType: Trap
+    description: Set a Trap
+    effectValue: 5

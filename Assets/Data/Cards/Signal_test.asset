@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Signal_test
   m_EditorClassIdentifier: Assembly-CSharp::Card
   data:
-    cardName: 
-    gritCost: 0
-    cardType: 
-    description: 
-    effectValue: 0
+    cardName: Signal
+    gritCost: 1
+    cardType: Signal
+    description: Draw Card
+    effectValue: 1
